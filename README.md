@@ -1,8 +1,9 @@
 # AI TicTacToe
 
 ## About the Project
-Tic Tac Toe with a baby AI as the other opponent.
+Tic Tac Toe with an AI as the other opponent.
 AI can be trained with a push of a button for a change in difficulty.
+made for my high school class.
 ### Built with
 - JavaFX 18
 
