@@ -13,3 +13,7 @@ Download the file and run it in Eclipse IDE.
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+## Contact
+
+Bianca Javier - (https://www.linkedin.com/in/bianca-javier-b6b6482a7/) - biancajavier006@gmail.com
+
